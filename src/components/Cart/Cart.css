@@ -1,0 +1,31 @@
+.cart h2{
+    margin-left: 70px;
+}
+.cart h5{
+    margin-left: 27%;
+}
+.order-total{
+    color: brown;
+    line-height: 21px;
+}
+.totalPrice{
+    color: brown;
+}
+.cart-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.cart-price{
+    line-height: 21px;
+}
+.orderReviewButton{
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 10px;
+    background-color: #f0c14b;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #a88734;
+    border-radius: 5px;
+    cursor: pointer;
+}

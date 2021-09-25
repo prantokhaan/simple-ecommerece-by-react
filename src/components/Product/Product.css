@@ -1,0 +1,24 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding: 10px 0;
+}
+.product img{
+    margin-right: 10px;
+}
+.product-name{
+    font-weight: 400;
+    color: blue;
+}
+.icon-color{
+    color: #f0c14b;
+}
+.purchase-button{
+    background-color: #f0c14b;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #a88734;
+    border-radius: 5px;
+    cursor: pointer;
+}
